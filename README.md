@@ -88,7 +88,7 @@ continue > click on Service Workers and uncheck "Offline" tick-box
 ****
 
 ## Deployment
-This application is deployed through Heroku @ : 
+This application is deployed through Heroku @ : https://pacific-lake-97425.herokuapp.com/
 
 ****
 
