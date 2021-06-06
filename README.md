@@ -66,6 +66,8 @@ The following lists all functions within this project:
 
 5. Node.js is required for this application: download [HERE](https://nodejs.org/en/download/)
 
+**IMPORTANT IF RUNNING APPLICATION ON LOCAL SERVER: `.env.EXAMPLE` needs to be renamed to `.env` and follow the instructions within the double //**
+
 ## Usage
 
 Running with CLI:
