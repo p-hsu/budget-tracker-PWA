@@ -30,5 +30,5 @@ mongoose.connect( process.env.MONGODB_URI || `mongodb+srv://${process.env.DB_USE
 app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
-  console.log(`App running on port ${PORT}!`);
+  console.log(`App running on http://localhost:${PORT}!`);
 });
