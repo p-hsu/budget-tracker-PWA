@@ -14,9 +14,9 @@ request.onupgradeneeded = function (e) {
 
   db = e.target.result;
 
-  if (db.objectStoreNames.length === 0) {
-    db.createObjectStore('pendingTransactions', { autoIncrement: true });
-  }
+  // if (db.objectStoreNames.length === 0) {
+  db.createObjectStore('pendingTransactions', { autoIncrement: true });
+  // }
 };
 
 request.onerror = function (e) {
