@@ -2,12 +2,13 @@
 
 ## Table of Contents
 1. [Project Overview](#Project-Overview)
-2. [MVP](#MVP)
-3. [Installation](#Installation)
-4. [Usage](#Usage)
-5. [Deployement](#Deployement)
-6. [License](#License)
-7. [Credit](#Credit)
+2. [Deployement](#Deployement)
+3. [MVP](#MVP)
+4. [Installation](#Installation)
+5. [Usage](#Usage)
+6. [Application Screenshot](#Application-Screenshot)
+7. [License](#License)
+8. [Credit](#Credit)
 ****
 
 ## Project Overview
@@ -20,6 +21,11 @@ Don't ever lose track of your financial activity - even when internet accessibil
 #### Issues to debug:
 
 *NONE TO NOTE*
+
+****
+
+## Deployment
+This application is deployed through Heroku @ : https://pacific-lake-97425.herokuapp.com/
 
 ****
 
@@ -89,8 +95,9 @@ continue > click on Service Workers and uncheck "Offline" tick-box
 
 ****
 
-## Deployment
-This application is deployed through Heroku @ : https://pacific-lake-97425.herokuapp.com/
+## Application Screenshot 
+
+![GIF of app](./assets/images/budget-tracker.gif)
 
 ****
 
